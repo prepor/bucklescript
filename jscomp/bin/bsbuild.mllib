@@ -7,7 +7,7 @@ common/bs_exception
 ../ocaml/utils/misc
 ../ocaml/parsing/longident
 ../ocaml/parsing/parsetree
-depends/depend
+../ocaml/parsing/depend
 ext/ext_pervasives
 ext/ext_bytes
 ext/ext_string

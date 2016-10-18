@@ -176,7 +176,7 @@ syntax/ppx_entry
 ../ocaml/parsing/printast
 ../ocaml/typing/printtyped
 ./js_implementation
-depends/depend
+../ocaml/parsing/depend
 depends/ast_extract
 ./ocaml_batch_compile
 ./ocaml_options
